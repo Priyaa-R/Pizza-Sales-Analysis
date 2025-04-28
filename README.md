@@ -4,11 +4,11 @@
 This project focuses on analyzing a pizza sales dataset to derive important business insights and visualize sales trends. Using Excel and SQL, I calculated key performance indicators (KPIs) and built an interactive dashboard to help the business understand their performance and sales patterns better.
 
 ## 📊 KPIs Calculated
- Total Revenue
- Average Order Value
- Total Pizzas Sold
- Total Orders
- Average Pizzas per Order
+- Total Revenue
+- Average Order Value
+- Total Pizzas Sold
+- Total Orders
+- Average Pizzas per Order
 
 ## 📈 Chart Trends
 Daily Trend for Total Orders
