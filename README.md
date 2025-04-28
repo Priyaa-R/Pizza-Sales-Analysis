@@ -32,7 +32,7 @@ This project focuses on analyzing a pizza sales dataset to derive important busi
 - Excel
 
 ## Dashboard
-View Dashboard - ![Excel Dashboard - Pizza Sales](https://github.com/user-attachments/assets/10f7b451-51d6-4d76-b061-742b4d0d5e7b)
+![Excel Dashboard - Pizza Sales](https://github.com/user-attachments/assets/10f7b451-51d6-4d76-b061-742b4d0d5e7b)
 
 
 
