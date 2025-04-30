@@ -3,6 +3,32 @@
 ## Project Overview
 This project focuses on analyzing a pizza sales dataset to derive important business insights and visualize sales trends. Using Excel and SQL, I calculated key performance indicators (KPIs) and built an interactive dashboard to help the business understand their performance and sales patterns better.
 
+## Situation
+A pizza restaurant chain collected large volumes of sales data but lacked structured analysis to understand their performance metrics and customer demand patterns.
+
+## Task
+The objective was to:
+    - Calculate business-critical KPIs from sales data
+    - Identify trends and best/worst-selling products
+    - Build a dashboard to help the business make data-driven decisions
+
+## Action
+- Used SQL to clean and analyze data stored in tables
+- Imported SQL output into Excel for visualization
+- Built KPIs and dynamic charts to uncover:
+- Sales by category and size
+- Daily and hourly order trends
+- Product performance rankings
+- Designed an interactive Excel dashboard for stakeholders
+
+## Result
+- Helped identify peak business hours and high-traffic days
+- Pinpointed best-selling and worst-performing pizzas
+- Revealed customer preference for large-sized and classic pizzas
+- Enabled inventory planning and marketing focus based on insights
+
+
+
 ## KPIs Calculated
 - Total Revenue
 - Average Order Value
